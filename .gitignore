@@ -1,3 +1,4 @@
+/protected/config/local.php
 assets/
 protected/runtime/
 themes/classic/views/
